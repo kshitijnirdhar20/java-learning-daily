@@ -1,16 +1,28 @@
-<h1 align="center">☕ Java Learning Journey</h1>
+# ☕ Java Learning Journey
 
-<p align="center">
-  🚀 A personal repository to track my daily progress as I learn Java — from fundamentals to object-oriented programming, data structures, algorithms, and mini-projects.
-</p>
+This repository documents my daily progress as I learn Java programming — from basics to OOP, data structures, and small projects.
 
 ---
 
-## 📚 What This Repo Covers
+## 📂 Folder Structure
 
-This repository is a structured journal of my Java learning. It includes:
+| Folder | Contents |
+|--------|----------|
+| `01-Basics` | Java syntax, variables, conditionals, loops |
+| `02-OOP` | Object-Oriented Programming (classes, inheritance, polymorphism) |
+| `03-DSA` | Data Structures and Algorithms in Java |
+| `04-Projects` | Mini-projects and practical programs |
 
-- ✅ Core Java syntax & fundamentals
-- 🧠 Object-Oriented Programming (OOP)
-- 📊 Data Structures and Algorithms (DSA)
-- 💻 Practical programs and mini-projects
+---
+
+## 🎯 Goals
+
+- Practice Java daily and push progress here
+- Build a strong foundation in core Java
+- Apply Java for backend and Android development later
+
+---
+
+## 👨‍💻 Author
+
+Made with ☕ by [Kshitij Nirdhar](https://github.com/kshitijnirdhar20)
